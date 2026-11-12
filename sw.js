@@ -1,5 +1,5 @@
 // Nome da caixa (cache). Mude o número quando atualizar o app: v1, v2, v3...
-const VERSAO = 'campus-v1';
+const VERSAO = 'campus-v2';
 
 // Arquivos guardados no celular para o app abrir sem internet
 const ARQUIVOS = [
